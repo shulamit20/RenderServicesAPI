@@ -1,0 +1,13 @@
+
+{
+  "name": "renderservicesapi",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@api/render-api": "^1.0.0",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
